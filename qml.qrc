@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>BackGround.qml</file>
+        <file>BackgroundEffect.qml</file>
+        <file>shaders/background.frag</file>
+        <file>shaders/background.vert</file>
+        <file>shaders/ribbon.frag</file>
+        <file>shaders/ribbon.vert</file>
+        <file>shaders/ribbonwireframe.frag</file>
+        <file>shaders/robustwireframe.geom</file>
+        <file>BasicCamera.qml</file>
+        <file>WaveForwardRenderer.qml</file>
+        <file>Wave.qml</file>
+        <file>WaveEffect.qml</file>
+        <file>WaveMaterial.qml</file>
+        <file>content/images/face-smile.png</file>
+        <file>content/images/moon.png</file>
+        <file>content/images/NOTE</file>
+        <file>content/images/rabbit_brown.png</file>
+        <file>content/images/rabbit_bw.png</file>
+        <file>content/images/star.png</file>
+        <file>content/images/sun.png</file>
+        <file>content/images/tree_s.png</file>
+        <file>content/Button.qml</file>
+        <file>content/Button.qmlc</file>
+        <file>content/GenericSceneItem.qml</file>
+        <file>content/GenericSceneItem.qmlc</file>
+        <file>content/itemCreation.js</file>
+        <file>content/itemCreation.jsc</file>
+        <file>content/PaletteItem.qml</file>
+        <file>content/PaletteItem.qmlc</file>
+        <file>content/PerspectiveItem.qml</file>
+        <file>content/PerspectiveItem.qmlc</file>
+        <file>content/Sun.qml</file>
+        <file>content/Sun.qmlc</file>
+    </qresource>
+</RCC>
